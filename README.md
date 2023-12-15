@@ -17,3 +17,5 @@ A table showing the campaign backers and the average donation to show the averag
 
 ### Statistical Analysis:
 The numbers show that the mean for successful campaign backers out-weighs the failed campaigns. This would justify my initial conclusion that the crowdfunding was a success. 
+
+![image](https://github.com/Ajalt90/Crowdfunding_Analysis/assets/152897236/7546d298-b254-4624-be7a-1c66696fce08)
